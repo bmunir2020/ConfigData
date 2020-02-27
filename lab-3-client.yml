@@ -1,1 +1,3 @@
-lucky-word: cat
+lucky-word:
+  - hello
+  - ciao
